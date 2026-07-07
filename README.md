@@ -1,7 +1,7 @@
 <div align="center">
   <img src="2 (1).png" alt="首页仪表盘" width="80%">
   <br><br>
-  <img src="[https://raw.githubusercontent.com/s486tt-ship-it/Tracker-Purifier/main/assets/screenshot-2.png](https://github.com/s486tt-ship-it/Tracker-Purifier/blob/20b1a8b64a11b7a1f9cf8357da9dafcdf5fea827/2%20(2).png)" alt="列表下载中心" width="80%">
+  <img src="2 (2).png" alt="列表下载中心" width="80%">
 </div>
 
 # BT Tracker List Service
